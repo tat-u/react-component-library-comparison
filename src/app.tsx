@@ -1,5 +1,5 @@
-import { TestComponent } from "./component/test-component";
+import { Accordion } from "./story/accordion";
 
 export const App = () => {
-  return <TestComponent />;
+  return <Accordion />;
 };
